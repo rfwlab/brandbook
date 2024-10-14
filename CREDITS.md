@@ -1,8 +1,8 @@
 ## Logo created by
 
 - Mirko Brombin ([@mirkobrombin](https://github.com/mirkobrombin))
-- Gabriel Cozma ([@GabsEdit](https://github.com/GabsEdits))
+- Gabriel Cozma ([@GabsEdits](https://github.com/GabsEdits))
 
-## Logo Copytight
+## Logo Copyright
 
 - [fabricators.ltd](https://fabricators.ltd)
